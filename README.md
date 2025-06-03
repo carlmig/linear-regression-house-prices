@@ -16,7 +16,7 @@ Implementation of Linear Regression for predicting house prices. This project de
 ## 🛠️ Technologies Used
 
 - Python
-- [Key libraries: numpy, pandas, scikit-learn, tensorflow, etc.]
+- Key libraries: numpy, pandas, scikit-learn
 
 ## 📈 Results
 
@@ -32,7 +32,7 @@ Implementation of Linear Regression for predicting house prices. This project de
 
 2. **Run the notebook**
    ```bash
-   jupyter notebook [notebook-name].ipynb
+   jupyter notebook notebook.ipynb
    ```
 
 ## 🔍 What's Included
@@ -52,4 +52,3 @@ Implementation of Linear Regression for predicting house prices. This project de
 ---
 
 **Author**: Carlos Ribeiro
-**Portfolio**: [Your GitHub/Portfolio Link]
