@@ -43,9 +43,9 @@ Implementation of Linear Regression for predicting house prices. This project de
 - Model implementation and training
 - Performance evaluation
 - Key visualizations:
-  - [Visualization 1]
-  - [Visualization 2]
-  - [Visualization 3]
+  - Scatter plot of predicted vs actual values
+  - Residuals plot
+  - Feature importance
 
 ## 💡 Algorithm Summary
 
