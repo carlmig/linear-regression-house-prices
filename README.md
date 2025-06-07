@@ -27,7 +27,9 @@ Implementation of Linear Regression for predicting house prices. This project de
 
 1. **Install dependencies**
    ```bash
-   pip install numpy pandas matplotlib scikit-learn [other-libraries]
+   python3 -m venv python-env
+   source python-env/bin/activate
+   pip install -r requirements.txt
    ```
 
 2. **Run the notebook**
