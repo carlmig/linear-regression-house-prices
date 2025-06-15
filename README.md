@@ -20,8 +20,8 @@ Implementation of Linear Regression for predicting house prices. This project de
 
 ## 📈 Results
 
-- **[Main Metric]**: [Value]
-- **[Secondary Metric]**: [Value]
+- **[Main Metric]**: R squared
+
 
 ## 🚀 How to Run
 
@@ -47,9 +47,6 @@ Implementation of Linear Regression for predicting house prices. This project de
   - Residuals plot
   - Feature importance
 
-## 💡 Algorithm Summary
-
-[2-3 sentences explaining what the algorithm does and why it's useful for this problem]
 
 ---
 
